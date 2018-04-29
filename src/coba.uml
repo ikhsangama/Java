@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="209.25" y="0.0">kampus.Manusia</node>
+    <node x="0.0" y="112.0">kampus.Dosen</node>
+    <node x="0.0" y="590.0">kampus.MKRS</node>
+    <node x="0.0" y="427.0">kampus.Kuliah</node>
+    <node x="324.0" y="427.0">Critter</node>
+    <node x="275.0" y="101.0">kampus.Mahasiswa</node>
+    <node x="0.0" y="264.0">kampus.KRS</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="kampus.Mahasiswa" target="kampus.Manusia">
+      <point x="0.0" y="-59.0" />
+      <point x="415.0" y="76.0" />
+      <point x="302.25" y="76.0" />
+      <point x="31.0" y="25.5" />
+    </edge>
+    <edge source="kampus.Dosen" target="kampus.Manusia">
+      <point x="0.0" y="-48.0" />
+      <point x="127.5" y="76.0" />
+      <point x="240.25" y="76.0" />
+      <point x="-31.0" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5296735905044511" x="248.5" y="327.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
