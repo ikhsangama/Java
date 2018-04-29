@@ -1,4 +1,4 @@
-package kelas3_generics.latihan1;
+package uas.kelas3_generics.latihan1;
 
 public class KeranjangString {
     String buah;

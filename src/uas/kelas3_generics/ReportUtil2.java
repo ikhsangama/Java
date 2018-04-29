@@ -1,4 +1,4 @@
-package kelas3_generics;
+package uas.kelas3_generics;
 
 /*5*/
 public class ReportUtil2 {
